@@ -24,6 +24,7 @@ function FormInput({ name, label, register }) {
 						error={isError}
 					/>
 				)}
+				defaultValue=""
 			/>
 		</Grid>
 	)
